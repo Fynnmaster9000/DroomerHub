@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/DroomerHub",
-      "destination": "/droomerhub.html"
+      "destination": "/droomerhubdoors.html"
     }
   ]
 }
