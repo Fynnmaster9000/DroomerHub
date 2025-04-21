@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/DroomerHub",
+      "destination": "/DroomerHub.html"
+    }
+  ]
+}
